@@ -1,0 +1,14 @@
+C:\Users\Zeb\source\repos\TdoApi\TdoApi\bin\Debug\netcoreapp2.1\TdoApi.deps.json
+C:\Users\Zeb\source\repos\TdoApi\TdoApi\bin\Debug\netcoreapp2.1\TdoApi.runtimeconfig.json
+C:\Users\Zeb\source\repos\TdoApi\TdoApi\bin\Debug\netcoreapp2.1\TdoApi.runtimeconfig.dev.json
+C:\Users\Zeb\source\repos\TdoApi\TdoApi\bin\Debug\netcoreapp2.1\TdoApi.dll
+C:\Users\Zeb\source\repos\TdoApi\TdoApi\bin\Debug\netcoreapp2.1\TdoApi.pdb
+C:\Users\Zeb\source\repos\TdoApi\TdoApi\obj\Debug\netcoreapp2.1\TdoApi.csprojAssemblyReference.cache
+C:\Users\Zeb\source\repos\TdoApi\TdoApi\obj\Debug\netcoreapp2.1\TdoApi.csproj.CoreCompileInputs.cache
+C:\Users\Zeb\source\repos\TdoApi\TdoApi\obj\Debug\netcoreapp2.1\TdoApi.RazorAssemblyInfo.cache
+C:\Users\Zeb\source\repos\TdoApi\TdoApi\obj\Debug\netcoreapp2.1\TdoApi.RazorAssemblyInfo.cs
+C:\Users\Zeb\source\repos\TdoApi\TdoApi\obj\Debug\netcoreapp2.1\TdoApi.AssemblyInfoInputs.cache
+C:\Users\Zeb\source\repos\TdoApi\TdoApi\obj\Debug\netcoreapp2.1\TdoApi.AssemblyInfo.cs
+C:\Users\Zeb\source\repos\TdoApi\TdoApi\obj\Debug\netcoreapp2.1\TdoApi.RazorTargetAssemblyInfo.cache
+C:\Users\Zeb\source\repos\TdoApi\TdoApi\obj\Debug\netcoreapp2.1\TdoApi.dll
+C:\Users\Zeb\source\repos\TdoApi\TdoApi\obj\Debug\netcoreapp2.1\TdoApi.pdb
